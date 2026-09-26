@@ -7,6 +7,7 @@ Bilgisayarında **yerel** çalışan, masaüstünde gezen bakır robot asistan. 
 | Platform | İndir |
 |---|---|
 | 🍎 Mac (Apple Silicon: M1/M2/M3/M4, macOS 13+) | [Buddy-mac-arm64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-mac-arm64.zip) |
+| 🍏 Mac (Intel işlemcili, macOS 13+) | [Buddy-mac-x64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-mac-x64.zip) |
 | 🪟 Windows 10/11 (64 bit) | [Buddy-windows-x64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-windows-x64.zip) |
 | 🤖 Android | yakında |
 
