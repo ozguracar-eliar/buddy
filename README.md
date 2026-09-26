@@ -9,7 +9,7 @@ Bilgisayarında **yerel** çalışan, masaüstünde gezen bakır robot asistan. 
 | 🍎 Mac (Apple Silicon: M1/M2/M3/M4, macOS 13+) | [Buddy-mac-arm64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-mac-arm64.zip) |
 | 🍏 Mac (Intel işlemcili, macOS 13+) | [Buddy-mac-x64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-mac-x64.zip) |
 | 🪟 Windows 10/11 (64 bit) | [Buddy-windows-x64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-windows-x64.zip) |
-| 🤖 Android | yakında |
+| 🤖 Android 9+ (64 bit, 6 GB+ RAM) | [Buddy-android.apk](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-android.apk) |
 
 ## Kurulum (Mac)
 
@@ -27,6 +27,14 @@ Gereken: ~3 GB boş disk, 8 GB+ RAM önerilir.
 4. Robota tıkla → yaz; robota ya da **Sağ Ctrl**'e basılı tut → konuş. Görev çubuğundaki simge → menü.
 
 Windows'ta henüz olmayanlar: ekranı okuma/tıklama, Mail, beceriler, Telegram sesli mesajları, telefondan bağlanma.
+
+## Kurulum (Android)
+
+1. APK'yı telefonda indir ve aç. “Bu kaynaktan uygulama yüklemeye izin ver” sorarsa izin ver → **Yükle**.
+2. Açılınca mikrofon ve bildirim izni ister; beyin (~1,2 GB) iner — Wi-Fi'de olman iyi olur.
+3. 🎙'ye dokun ve konuş; 🗂 ile ajanda, hesaplar ve Telegram ayarları.
+
+Android'de henüz olmayanlar: bilgisayar/telefon yönetme, beceriler; Claude/ChatGPT yalnızca API anahtarıyla.
 
 ## Neler yapar
 
