@@ -7,7 +7,7 @@ Bilgisayarında **yerel** çalışan, masaüstünde gezen bakır robot asistan. 
 | Platform | İndir |
 |---|---|
 | 🍎 Mac (Apple Silicon: M1/M2/M3/M4, macOS 13+) | [Buddy-mac-arm64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-mac-arm64.zip) |
-| 🪟 Windows | yakında |
+| 🪟 Windows 10/11 (64 bit) | [Buddy-windows-x64.zip](https://github.com/ozguracar-eliar/buddy/releases/latest/download/Buddy-windows-x64.zip) |
 | 🤖 Android | yakında |
 
 ## Kurulum (Mac)
@@ -17,6 +17,15 @@ Bilgisayarında **yerel** çalışan, masaüstünde gezen bakır robot asistan. 
 3. Hoş geldin ekranında beyin (~1,2 GB) iner. Ses tanıma (~575 MB) ilk sesli konuşmada, görme (~670 MB) ilk resimde iner. Dosyalar resmi kaynaktan (Hugging Face) iner ve parmak iziyle doğrulanır.
 
 Gereken: ~3 GB boş disk, 8 GB+ RAM önerilir.
+
+## Kurulum (Windows)
+
+1. Zip'i bir klasöre çıkar (ör. Belgeler\Buddy) ve **Buddy.exe**'yi çalıştır. Ek bir şey kurman gerekmez.
+2. “Windows bilgisayarınızı korudu” uyarısı çıkarsa: **Ek bilgi → Yine de çalıştır** (uygulama imzalı değil).
+3. İlk açılışta tarayıcıda hoş geldin ekranı açılır, beyin iner.
+4. Robota tıkla → yaz; robota ya da **Sağ Ctrl**'e basılı tut → konuş. Görev çubuğundaki simge → menü.
+
+Windows'ta henüz olmayanlar: ekranı okuma/tıklama, Mail, beceriler, Telegram sesli mesajları, telefondan bağlanma.
 
 ## Neler yapar
 
